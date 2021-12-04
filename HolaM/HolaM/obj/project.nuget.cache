@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "35KXcYbVgYGRmUpDPeOdwwDof6+PxJcA32YL1XIFZEmYrZHHC1ZcpgheDOPpl8vd+gHp20FiPTPxQ8UQb7lr4g==",
+  "dgSpecHash": "q3Qs3IqDAYKrLeJo7CkSWHJFCOGMntqmuu3m1R2rvpvmoP/cf0dV8A/dAgJ/5QNXUoVd4/kjbPyiUbruKXye5Q==",
   "success": true,
-  "projectFilePath": "L:\\666-Public\\Diana\\GitHub\\githubPrueba\\HolaM\\HolaM\\HolaM.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Users\\the-v\\Desktop\\9\\Clonado\\HolaM\\HolaM\\HolaM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor Coronado\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
   "logs": []
 }
